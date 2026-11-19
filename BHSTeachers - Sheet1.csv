@@ -1,0 +1,29 @@
+index,First Name,Last Name,Advisor,Number of Classes,Number of Students,Department,Favorite Color
+0,Lauren,Horne,no,500,0,Principal,Red
+1,Shantae,Romain,no,500,0,Operations,Blue
+2,Fernando,Acosta,no,300,0,Math,Yellow
+3,Vicmarys,Brito,no,300,0,Spanish,Red
+4,Adam,Dobberfuhl,no,300,0,Science,orange
+5,Heather,Staats,no,500,0,History,pink
+6,Christopher,Wallace,no,500,0,History,purple
+7,Jonathan,Jean-Louis,no,500,0,Dean,orange
+8,Alex,Forrest,no,500,0,Dean,green
+9,Thessa,Andrade,yes,4,75,English,blue
+10,Joanna,Cabrera,yes,3,63,English,yellow
+11,Christine,Ko,yes,2,50,History,yellow
+12,Kelley,Ferreira,yes,4,63,English,orange
+13,Jim,Mayers,yes,4,35,English,green
+14,Maddy,Nam,yes,3,45,English,teal
+15,Brandi,Brillant,yes,4,67,Math,orange
+16,Melinda,Magleby,no,4,34,Math,blue
+17,Julia,Savage,yes,3,34,Math,green
+18,Cedric,Jacobson,yes,4,56,Science,yellow
+19,Adaline,King,yes,4,45,Science,green
+20,Patrick,Lanciault,yes,4,56,Science,pink
+21,Luyan,Lin,yes,5,45,Science,pink
+22,Diana,Alejandro,yes,3,56,Spanish,black
+23,Gabriela,Penagos,yes,4,34,Spanish,red
+24,Daphne,Krutulis,yes,4,34,Computer Science,green
+25,Nicholas,Martin,yes,3,56,Computer Science,blue
+26,Iris,Oliver,yes,4,70,Computer Science,yellow
+27,Jada,Worthy,yes,4,35,Computer Science,blue
